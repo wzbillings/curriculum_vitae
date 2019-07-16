@@ -1,0 +1,56 @@
+\documentclass[11pt]{article}
+
+\usepackage{microtype}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{soul}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+\onehalfspacing
+
+\newcommand{\tabitem}{~~\llap{\textbullet}~~} %Taken from this tex stackexchange post https://tex.stackexchange.com/questions/150492/how-to-use-itemize-in-table-environment
+
+\begin{document}
+
+\begin{center}
+\large{
+	{\bf CURRICULUM VITAE} \\
+	W. Zane Billings \\}
+	\hrulefill
+\end{center}
+
+\normalsize
+
+{\bf Contact Information:}
+\setlist{nolistsep}
+\begin{itemize}[noitemsep]
+\item Email: \href{mailto:wzbillings1@catamount.wcu.edu}{\ul{wzbillings1@catamount.wcu.edu}}
+\item Mobile: (980) 241-7815
+\item Mail: 2347 Old NC 27 Hwy, Mount Holly, NC 28120
+\item \href{https://www.linkedin.com/in/zane-b/}{\ul{LinkedIn Profile}}
+\item \href{https://github.com/wz-billings}{\ul{GitHub profile}}
+\item ORCID: \href{https://orcid.org/0000-0002-0184-6134}{\ul{0000-0002-0184-6134}}
+\end{itemize}
+
+\vspace{0.2in}
+\input{./CV_education.tex}
+
+\vspace{0.2in}
+\input{./CV_research.tex}
+
+\vspace{0.2in}
+\input{./CV_awards.tex}
+
+\vspace{0.2in}
+\input{./CV_courses.tex}
+
+\vspace{0.2in}
+\input{./CV_skills.tex}
+
+\vspace{0.2in}
+\input{./CV_other.tex}
+
+\end{document}
