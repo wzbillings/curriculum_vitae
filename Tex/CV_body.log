@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730) (preloaded format=pdflatex 2018.8.28)  17 JUL 2019 13:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730) (preloaded format=pdflatex 2018.8.28)  22 OCT 2019 13:13
 entering extended mode
 **./CV_body.tex
 (CV_body.tex
@@ -373,25 +373,25 @@ Package microtype Info: Loading generic protrusion settings for font family
 {/Users/zanebillings/Library/Application Support/MiKTeX/texmfs/data/pdftex/conf
 ig/pdftex.map}])
 (CV_awards.tex) (CV_courses.tex) (CV_skills.tex) (CV_other.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
 
 (CV_body.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 57.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 57.
 Package rerunfilecheck Info: File `CV_body.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 56.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 57.
  ) 
 Here is how much of TeX's memory you used:
  6827 strings out of 494891
- 110230 string characters out of 3176565
+ 110184 string characters out of 3176565
  237936 words of memory out of 3000000
  10382 multiletter control sequences out of 15000+200000
  8739 words of font info for 39 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 31i,6n,38p,280b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,6n,38p,280b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Users/zanebillings/Library/Application Support/MiKTeX/texmfs/install/fonts/
 type1/public/amsfonts/cm/cmbx10.pfb></Users/zanebillings/Library/Application Su
 pport/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/z
@@ -405,9 +405,9 @@ ation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 /Users/zanebillings/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
 e1/public/amsfonts/cm/cmti10.pfb></Users/zanebillings/Library/Application Suppo
 rt/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV_body.pdf (2 pages, 112719 bytes).
+Output written on CV_body.pdf (2 pages, 113150 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  8705 words of extra memory for PDF output out of 10000 (max. 10000000)
 
