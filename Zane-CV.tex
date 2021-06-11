@@ -1,0 +1,113 @@
+\documentclass[11pt]{article}
+
+\usepackage{microtype}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{soul}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+\onehalfspacing
+
+\newcommand{\tabitem}{~~\llap{\textbullet}~~} %Taken from this tex stackexchange post https://tex.stackexchange.com/questions/150492/how-to-use-itemize-in-table-environment
+
+\begin{document}
+
+\begin{center}
+\large{
+	{\bf CURRICULUM VITAE} \\
+	W. Zane Billings \\}
+	\hrulefill
+\end{center}
+
+\normalsize
+
+{\bf Contact Information:}
+\setlist{nolistsep}
+\begin{itemize}[noitemsep]
+\item Email: \href{mailto:wesley.billings@uga.edu}{\texttt{wesley.billings@uga.edu}}
+%\item Mobile: (980) 241-7815
+\item Homepage: \url{https://wz-billings.rbind.io} (Connects to GitHub and LinkedIn)
+\end{itemize}
+
+\vspace{0.2in}
+\textbf{Education:}
+
+\begin{itemize}
+\item Current. PhD, Epidemiology and Biostatistics, University of Georgia.
+\item 2020. B.S., Biology and Mathematics, Western Carolina University.
+\end{itemize}
+
+\vspace{0.2in}
+\textbf{Publications:}
+
+\setlist{nolistsep}
+\begin{itemize}[noitemsep]
+\item Mckay B, Ebell M, \ul{Billings WZ}, Dale AP, Shen Y, Handel A. Associations between relative viral load at diagnosis and influenza A symptoms and recovery. \textit{Open Forum Infectious Diseases}. 2020; 7(11).
+\end{itemize}
+
+\vspace{0.2in}
+\textbf{Presentations:}
+
+\setlist{nolistsep}
+\begin{itemize}[noitemsep]
+\item \ul{Billings WZ}, Handel A. Exploring the effect of host factors on the relationship between pre-existing immunity and influenza vaccine response. Poster presented at Ecology and Evolution of Infectious Diseases meeting; 2021; virtual.
+\item \ul{Billings WZ}, Handel A. How does pre-existing immunity interact with other factors to impact influenza vaccine responses? Talk presented at the CIVR-HRP annual meeting; May 2021; virtual.
+\end{itemize}
+
+\vspace{0.2in}
+\textbf{Teaching experience:}
+
+\ul{Lab assistant} \hfill Spring 2019 - Spring 2021 
+\begin{itemize}
+\item Lab assistant for MATH 340: Intro to Scientific Computing at WCU for three semesters.
+\item Taught \LaTeX{}, Excel, Mathematica, \texttt{MATLAB}, and \texttt{R} to students from diverse majors, including mathematics, computer science, engineering, biology, and chemistry.
+\item Developed hands-on activities for students to complete in and out of class to either facilitate understanding of course topics, or explore applications.
+\item Assisted students in debugging code during hands-on class time.
+\end{itemize}
+
+\ul{Course tutor} \hfill Spring 2017 - Spring 2019
+\begin{itemize}
+\item Tutored several courses at WCU's student tutoring center, including introductory biology, organic chemistry, genetics, evolutionary biology, immunology, and microscopy.
+\item Worked one-on-one with students to reinforce course content, including working with non-traditional students.
+\item Adapted course information to the individual learning styles of a diverse client body.
+\item Led group tutoring and review sessions where I was responsible for assisting several students at once with course material.
+\end{itemize}
+
+\vspace{0.2in}
+\input{./CV_awards.tex}
+
+\vspace{0.2in}
+\textbf{Other research:}
+
+\setlist{nolistsep}
+\begin{itemize}[noitemsep]
+\item \ul{OEIS (On-line Encyclopedia of Integer Sequences) Contributions}: All of these sequences can be viewed at \url{https://oeis.org}.
+	\setlist{nolistsep}
+	\begin{itemize}[noitemsep]
+		\item Author of sequence \href{https://oeis.org/A319302}{\ul{A319302}}.
+		\item Author of sequence \href{https://oeis.org/A309092}{\ul{A309092}}.
+		\item Wrote Python code and generated a b-file for sequence \href{https://oeis.org/A110529}{\ul{A110529}.}
+	\end{itemize}
+\item \ul{Population Biology of Infectious Diseases REU participant}. Worked with Andreas Handel at the University of Georgia in Summer 2019. Research resulted in McKay et al. publication in Open Forum Infectious Diseases.
+\item \underline{Math-Biology REU participant}. Worked with Louis-Marie Bobay at the University of North Carolina at Greensboro in Summer 2018.
+\item \ul{Senior thesis.} Worked with Heather Coan at Western Carolina University as part of obtaining my B.S. degree; this research resulted in a thesis available upon request.
+
+\vspace{0.2in}
+\textbf{Skills:}
+
+\setlist{nolistsep}
+\begin{itemize}[noitemsep]
+%\item Responsible Conduct in Research (RCR) certified (CITI Program).
+%\item CRLA certified Level 1 Tutor.
+\item Programming: \ul{\texttt{R}}, Python, MATLAB, Git and GitHub, bash.
+\item Software: Mathematica (Wolfram language), Tableau, SAS.
+\item Presentation: \LaTeX{}, Markdown (R-Markdown), HTML, CSS.
+\end{itemize}
+
+\end{document}
