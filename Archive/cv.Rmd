@@ -1,0 +1,66 @@
+---
+title: "Curriculum Vitae"
+runningheader: "" # only for pdf output
+subtitle: "" # only for html output
+author: "W. Zane Billings"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: skeleton.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+Zane Billings is currently a PhD student in the Epidemiology & Biostatistics department in the College of Public Health, University of Georgia, USA. He is focusing on data analysis and modeling, and works under the direction of Dr. Andreas Handel. Zane has experience with statistics and data analysis using the `R` programming language, and is interested in the epidemiology and immunology of influenza. His current focus is on individual-level drivers of the immune response to the seasonal influenza vaccine.
+
+# Education
+
+* Ongoing. PhD, Epidemiology and Biostatistics, University of Georgia, Athens, GA, USA.
+* 2016 -- 2020. BS, Biology and Mathematics, Western Carolina University, Cullowhee, NC, USA.
+
+# Publications
+
+* McKay B, Ebell M, **Billings WZ**, Dale AP, Shen Y, Handel A. Associations between relative viral load at diagnosis and influenza A symptoms and recovery. *Open Forum Infectious Diseases*. 2020; 7(11).
+
+# Presentations
+* **Billings WZ**, Ge Y, Shen Y, Skarlupka AL, Ross TM, Handel A. How do pre-existing immunity and host factors interact to impact influenza vaccine response? Talk presented at the NIH CIVICs annual meeting; August 2021; virtual.
+* **Billings WZ**, Handel A. Exploring the effect of host factors on the relationship between pre-existing immunity and influenza vaccine response. Poster presented at Ecology and Evolution of Infectious Diseases meeting; 2021; virtual.
+* **Billings WZ**, Handel A. How does pre-existing immunity interact with other factors to impact influenza vaccine responses? Talk presented at the CIVR-HRP annual meeting; May 2021; virtual.
+
+# Teaching and mentoring experience
+* 2021. R/SAS primer.
+* 2021. Population biology of infectious disease REU site co-mentor.
+* 2021. Data visualization with `ggplot2`.
+
+
+
+
+1. To produce both PDF and HTML output with similar styles from the same R Markdown document;
+1. To provide simple syntax to write elements of the Tufte style such as side notes and margin figures, e.g. when you want a margin figure, all you need to do is the chunk option `fig.margin = TRUE`, and we will take care of the details for you, so you never need to think about `\begin{marginfigure} \end{marginfigure}` or `<span class="marginfigure"> </span>`; the LaTeX and HTML code under the hood may be complicated, but you never need to learn or write such code.
+
+If you have any feature requests or find bugs in **tufte**, please do not hesitate to file them to https://github.com/rstudio/tufte/issues. For general questions, you may ask them on StackOverflow: https://stackoverflow.com/tags/rmarkdown.
+
+# Headings
+
+This style provides first and second-level headings (that is, `#` and `##`), demonstrated in the next section. You may get unexpected output if you try to use `###` and smaller headings.
+
+`r newthought('In his later books')`^[[Beautiful Evidence](https://www.edwardtufte.com/tufte/books_be)], Tufte starts each section with a bit of vertical space, a non-indented paragraph, and sets the first few words of the sentence in small caps. To accomplish this using this style, call the `newthought()` function in **tufte** in an _inline R expression_ `` `r ` `` as demonstrated at the beginning of this paragraph.^[Note you should not assume **tufte** has been attached to your R session. You should either `library(tufte)` in your R Markdown document before you call `newthought()`, or use `tufte::newthought()`.]
+
+# Figures
+
+## Margin Figures
+
+Images and graphics play an integral role in Tufte's work. To place figures in the margin you can use the **knitr** chunk option `fig.margin = TRUE`. For example:
+
