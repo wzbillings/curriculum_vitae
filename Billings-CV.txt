@@ -22,9 +22,8 @@ doing academic research. My main research interests are in statistical methods
 epidemiology of influenza, and my current work is on drivers of immune response
 to the seasonal influenza vaccine at the host level. More broadly, I am
 interested in the application of statistical methods to public health,
-especially in relation to viruses and vaccines. I am proficient in R, including
-tidyverse and R Markdown, and familiar with: Python, MATLAB, Mathematica,
-SAS, HTML, CSS, Sass, LaTeX, and Git (in no specific order).
+especially in relation to viruses and vaccines. I am proficient with the R
+programming language, and write all of my analysis code in R.
 
 ========================
 
@@ -113,3 +112,21 @@ SERVICE
     - 2021 - 2022: President.
 * Curriculum committee, Department of Epidemiology & Biostatistics
     - 2021 - 2022: Student representative.
+
+SKILLS
+------
+* Programming languages: R, python, MATLAB.
+* Software: Mathematica, Tableau, SAS, Microsoft Excel, Google Sheets.
+* Other computing skills: Git, LaTeX, HTML, CSS, Sass.
+* Data cleaning, wrangling, analysis, and modeling.
+
+COURSEWORK
+----------
+* Statistics (and biostatistics): regression and ANOVA; generalized linear
+    models; probability theory; mathematical statistics; longitudinal data
+    analysis; modern applied data analysis; visual data storytelling.
+* Epidemiology: cohort study design; case-control study design.
+* Mathematics: multivariate calculus; linear algebra; optimization; numerical
+    analysis; combinatorics; graph theory; differential equations; modeling.
+* Biology: cell and molecular biology; biochemistry; microscopy; immunology.
+* Other: teaching seminar; peer tutoring; philosophy of Lewis and Tolkien.
