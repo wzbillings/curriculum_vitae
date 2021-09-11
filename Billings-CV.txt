@@ -68,25 +68,19 @@ PRESENTATIONS
 RESEARCH EXPERIENCE
 -------------------
 * Graduate research assistant
-    2020 - present
-    University of Georgia
+    2020 - present; University of Georgia
     Adviser: Andreas Handel
 * On-line Encyclopedia of Integer Sequences
     Authored two sequences (A319302; A309092)
     Contributed to one sequence (A110529)
 * Population Biology of Infectious Disease REU participant
-    May 2019 - July 2019
-    University of Georgia
+    May 2019 - July 2019; University of Georgia
     Mentors: Andreas Handel and Brian McKay
-    resulted in authorship on a publication (McKay et al, Open Forum Infectious
-      Disease, 2020).
 * Math-Biology REU participant
-    May 2018 - July 2018
-    University of North Carolina, Greensboro
-    Advisers: Louis-Marie Bobay and Jonathan Rowell
-* Undergraduate research thesis
-    Western Carolina University
-    2018 - 2020
+    May 2018 - July 2018; University of North Carolina, Greensboro
+    Mentors: Louis-Marie Bobay and Jonathan Rowell
+* Lab technician (and undergraduate researcher)
+    2018 - 2020; Western Carolina University
     Adviser: Heather Coan
     Thesis: Keratin modulation of autophagic flux in nutrient-deprived HEK-293
             cells (avaiable upon request)
@@ -103,16 +97,11 @@ TEACHING AND MENTORING
 * Undergraduate mentoring
   - Population Biology of Infectious Disease REU Site
     2021: co-mentored one undergraduate student, leading to an in-progress
-          manuscript.
+          manuscript (available upon request).
 * Lab assistant, MATH 340: Introduction to Scientific Computing
-    Western Carolina University;
-    Spring 2019 - Spring 2020.
-    Assisted students with programming and debugging during interactive class
-    sessions; prepared course activities and assignments; lectured on data
-    analysis and visualization using R.
+    Spring 2019 - Spring 2020; Western Carolina University.
 * Course tutor
-    Western Carolina University;
-    Spring 2017 - Spring 2019.
+    Spring 2017 - Spring 2019; Western Carolina University.
     Individual and group tutoring for introductory biology, organic chemistry,
     genetics, evolutionary biology, microscopy, and immunology.
 
@@ -122,6 +111,5 @@ SERVICE
     Student organization in the Epid. & Bios. department focused on
     facilitating faculty/student communication, and on community service.
     - 2021 - 2022: President.
-* Curriculum committee student representative
-    Department of Epidemiology & Biostatistics
-    2021 - 2022.
+* Curriculum committee, Department of Epidemiology & Biostatistics
+    - 2021 - 2022: Student representative.
