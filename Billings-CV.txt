@@ -9,7 +9,7 @@ maximum cross-platform readibility and compatibility.
 
 CONTACT INFO:
 * email: wesley.billings@uga.edu
-* website: https://wz-billings.rbind.io
+* website: https://wzbillings.com
 * github: https://github.com/wzbillings
 * mail: 121 B.S. Miller Hall,
         101 Buck Rd,
