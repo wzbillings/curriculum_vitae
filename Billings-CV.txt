@@ -13,7 +13,7 @@ CONTACT INFO:
 * github: https://github.com/wzbillings
 * mail: 121 B.S. Miller Hall,
         101 Buck Rd,
-        Athens, GA, 30602, USA
+        Athens, GA 30602, USA
 
 PERSONAL SUMMARY: I am currently a PhD student working under Andreas Handel at
 the University of Georgia, Athens, GA, USA. In the future, I hope to continue
