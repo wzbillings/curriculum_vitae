@@ -1,0 +1,87 @@
+---
+format: pdf
+---
+
+
+# Curriculum Vitae
+
+W. Zane Billings, BS
+
+\hrulefill
+
+## Contact Information
+
+* Email: [wesley.billings@uga.edu](mailto:wesley.billings@uga.edu)
+
+* Homepage: [https://wzbillings.com](https://wzbillings.com) (Connects to
+GitHub and LinkedIn)
+
+* Office address: 121 B.S. Miller Hall, 101 Buck Rd, Athens, GA 30602.
+
+## Education
+
+* PhD, Epidemiology and Biostatistics, University of Georgia. Current.
+
+* BS, Biology and Mathematics, Western Carolina University. 2020.
+
+## Awards
+
+* **Georgia Research Education Award Traineeship**, University of Georgia,
+awarded 2020. Full funding for doctoral studies for 5 years.
+
+* Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)
+scholarship, University of Washington, awarded Summer 2022.
+
+* Doctoral Service Award, Department of Epidemiology \& Biostatistics,
+University of Georgia, awarded Spring 2022.
+
+## Publications
+
+* McKay B, Ebell M, **Billings WZ**, Dale AP, Shen Y, Handel A. Associations
+between relative viral load at diagnosis and influenza A symptoms and recovery.
+*Open Forum Infectious Diseases*. 2020; 7(11).
+
+## Presentations
+
+* **Billings WZ**, Handel A, et al. Longitudinal trajectories of influenza immune response after repeat vaccination. Talk presented at the CIVR-HRP annual meeting; May 2022; Athens, GA.
+
+* **Billings WZ**, Handel A, et al. How do preexisting immunity and host factors interact to impact influenza vaccine response? Talk presented at the NIH CIVICs annual meeting; August 2021; virtual.
+
+* **Billings WZ**, Handel A. Exploring the effect of host factors on the relationship between pre-existing immunity and influenza vaccine response. Poster presented at Ecology and Evolution of Infectious Diseases meeting; 2021; virtual.
+
+* **Billings WZ**, Handel A. How does pre-existing immunity interact with other factors to impact influenza vaccine responses? Talk presented at the CIVR-HRP annual meeting; May 2021; virtual.
+
+## Teaching and mentoring
+
+### Lab Assistant
+
+* **EPID 7500**: Introduction to Coding in R, Data Science and Simulation for
+Public Health and the Life Sciences. University of Georgia, Fall 2022.
+
+* **MATH 340**: Scientific Computing. Western Carolina University, Spring 2019
+-- Spring 2021 (three semesters).
+
+### Workshops
+
+* Reproducible research with R and R Markdown, June 2022. Population Biology of Infectious Diseases REU program.
+
+* R and SAS primer, August 2021. UGA College of Public Health.
+
+* Data visualization using `ggplot2`, June 2021. Population Biology of Infectious Diseases REU program.
+
+### Population Biology of Infectious Diseases REU Site
+
+* Primary mentor for one undergraduate student in 2022
+* Co-mentor for one undergraduate student in 2021
+
+
+
+
+
+
+
+
+
+
+
+<!-- END OF FILE -->
